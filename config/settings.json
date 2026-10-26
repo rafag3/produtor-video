@@ -1,0 +1,12 @@
+{
+  "ffmpeg_path": "ffmpeg",
+  "ffprobe_path": "ffprobe",
+  "whisper_model": "small",
+  "silence_threshold_db": -35,
+  "minimum_silence_seconds": 0.7,
+  "silence_padding_seconds": 0.15,
+  "video_width": 1280,
+  "video_height": 720,
+  "fps": 30,
+  "crf": 20
+}
